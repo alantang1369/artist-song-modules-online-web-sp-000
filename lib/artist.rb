@@ -41,4 +41,5 @@ class Artist
   end
   
   extend Memorable
+  extend Findable
 end
