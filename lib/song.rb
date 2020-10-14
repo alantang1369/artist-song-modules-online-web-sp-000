@@ -35,7 +35,7 @@ class Song
   #end
   
   extend Memorable::ClassMethods
-  #include Memorable::InstanceMethods
+  include Memorable::InstanceMethods
   include Paramable
 end
 
