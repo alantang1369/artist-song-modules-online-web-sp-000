@@ -1,1 +1,3 @@
-module Paramablel
+module Paramable
+
+end
